@@ -72,6 +72,21 @@ button {
   display: block;
 }
 
+.about {
+    margin-left: 40px;
+    display: block;
+}
+
+.projects {
+    margin-left: 40px;
+    display: block;
+}
+
+.contact {
+    margin-left: 40px;
+    display: block;
+}
+
 .letter {
   font-size: 200px;
   line-height: 110px;
