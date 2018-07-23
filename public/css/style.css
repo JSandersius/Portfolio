@@ -100,45 +100,71 @@ button {
   opacity: 0.9;
 }
 
-#j {
-  color: #616dc2;
-}
-
-#u {
-  color: #51c2b3;
-}
-
-#l {
-  color: #47a9f4;
-}
-
-#i {
-  color: #4479ff;
-}
 
 #a {
-  color: #2196f3;
-}
+color: #2196f3;
+  }
 
-#n {
-  color: #00bcd4;
-}
+#b {
+color: #72d7da;
+  }
 
-#s {
-  color: #3d87a2;
+#c {
+color: #72d7da;
 }
 
 #d {
-  color: #5866ce;
-}
+color: #5866ce;
+  }
 
 #e {
-  color: #3c7bce; 
+color: #3c7bce; 
+  }
+
+#i {
+color: #4479ff;
+  }
+
+#j {
+color: #616dc2;
+}
+
+#l {
+color: #47a9f4;
+  }
+
+#n {
+color: #00bcd4;
+  }
+
+#o {
+color: #72d7da;
+}
+
+#p {
+color: #72d7da;
 }
 
 #r {
-  color: #72d7da;
+color: #72d7da;
+  }
+  
+#s {
+color: #3d87a2;
+  }
+
+#t {
+color: #72d7da;
 }
+
+#u {
+color: #51c2b3;
+}
+
+
+
+
+
 
 /*this is the code relevent to keyframes and CSS animations//*/
 @keyframes mymove {
