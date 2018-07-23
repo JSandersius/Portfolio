@@ -73,16 +73,19 @@ button {
 }
 
 .about {
+    height: 1000px;
     margin-left: 40px;
     display: block;
 }
 
 .projects {
+    height: 1000px;
     margin-left: 40px;
     display: block;
 }
 
 .contact {
+    height: 300px;
     margin-left: 40px;
     display: block;
 }
@@ -160,9 +163,6 @@ color: #72d7da;
 #u {
 color: #51c2b3;
 }
-
-
-
 
 
 
