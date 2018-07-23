@@ -24,6 +24,8 @@ html,body{
   #particles-js{
   width: 100%;
   height: 100%;
+  /* background-color: #b61924;
+  background-image: url(''); */
   background-size: cover;
   background-position: 50% 50%;
   background-repeat: no-repeat;
@@ -41,6 +43,7 @@ animation: AnimationName 19s ease infinite;
     50%{background-position:100% 50%}
     100%{background-position:0% 50%}
 }
+
 @-moz-keyframes AnimationName {
     0%{background-position:0% 50%}
     50%{background-position:100% 50%}
