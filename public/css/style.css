@@ -322,7 +322,7 @@ html {
 }
 
 .bgimg-1 {
-    background-image: url("../images/volcano1.jpg");
+    background-image: url();
     min-height: 100%;
 }
 
@@ -402,3 +402,21 @@ h3 {
 /* <--------PARALLAX CSS------------> */
 /* <--------PARALLAX CSS------------> */
 /* <--------PARALLAX CSS------------> */
+
+
+
+
+
+/* SOMETHING TO TRY */
+/* SOMETHING TO TRY */
+/* SOMETHING TO TRY */
+wrapper{
+    position:relative:
+   }
+   iframe{
+     position:absolute;
+     top:0;
+     bottom:0;
+     left:0;
+     right:0;
+   }
