@@ -219,11 +219,8 @@ var pJS = function (tag_id, params) {
 
                 /* density particles enabled */
                 pJS.fn.vendors.densityAutoParticles();
-
             });
-
         }
-
     };
 
 
@@ -288,7 +285,6 @@ var pJS = function (tag_id, params) {
                     }
                 }
             }
-
         }
         else if (color.value == 'random') {
             this.color.rgb = {
@@ -297,6 +293,7 @@ var pJS = function (tag_id, params) {
                 b: (Math.floor(Math.random() * (255 - 0 + 1)) + 0)
             }
         }
+
         else if (typeof (color.value) == 'string') {
             this.color = color;
             this.color.rgb = hexToRgb(this.color.value);
@@ -362,8 +359,6 @@ var pJS = function (tag_id, params) {
 
         this.vx_i = this.vx;
         this.vy_i = this.vy;
-
-
 
         /* if shape is image */
 
