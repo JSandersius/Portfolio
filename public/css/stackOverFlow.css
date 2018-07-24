@@ -456,5 +456,10 @@ h3 {
     position: absolute;
     width: 100%;
     z-index : 999;
-
 }
+
+.myclass{
+    z-index : 99999;
+    }
+
+    
