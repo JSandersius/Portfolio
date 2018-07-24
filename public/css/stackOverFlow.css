@@ -438,7 +438,7 @@ h3 {
 /* SOMETHING TO TRY */
 /* SOMETHING TO TRY */
 /* SOMETHING TO TRY */
-wrapper{
+/* wrapper{
     position:relative;
    }
    iframe{
@@ -447,4 +447,14 @@ wrapper{
      bottom:0;
      left:0;
      right:0;
-   }
+   } */
+
+
+/* Make particles background */
+/* Make particles background */
+   #particles canvas{
+    position: absolute;
+    width: 100%;
+    z-index : 999;
+
+}
