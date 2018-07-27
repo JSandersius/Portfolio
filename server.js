@@ -1,8 +1,9 @@
 // *** Dependencies
 // =============================================================
-const express = require('express');
+// const express = require('express');
+// const bodyParser = require('body-parser');
 const request = require('request');
-const bodyParser = require('body-parser');
+
 const http = require("http");
 const hostname = '127.0.0.1';
 const port = 3000;
