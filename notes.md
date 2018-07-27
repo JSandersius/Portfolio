@@ -17,6 +17,7 @@ DEBUG=helloworld:* npm start
  : write about section 
  : build contacts section with gmail, linkedin ,dev icons
     :build onto these
+    :GET, POST, DELETE
  : Node server running
  : Deploy to sandersius.com
  : enable email julian@sandersius.com
