@@ -21,3 +21,6 @@ DEBUG=helloworld:* npm start
  : Node server running
  : Deploy to sandersius.com
  : enable email julian@sandersius.com
+
+
+ unable to connect to git 
